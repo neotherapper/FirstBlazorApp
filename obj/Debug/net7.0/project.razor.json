@@ -50,65 +50,6 @@
         }
       },
       {
-        "HashCode": -350159709,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Counter",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Counter",
-          "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Counter"
-        }
-      },
-      {
-        "HashCode": 490018572,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Counter",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FirstBlazorApp.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Counter",
-          "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1626069847,
         "Kind": "Components.Component",
         "Name": "FirstBlazorApp.Pages.Index",
@@ -146,39 +87,79 @@
         }
       },
       {
-        "HashCode": -787305116,
+        "HashCode": -393365531,
         "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Todo",
+        "Name": "FirstBlazorApp.Pages.Counter",
         "AssemblyName": "FirstBlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Todo"
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartingValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "StartingValue",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeName": "FirstBlazorApp.Pages.Counter",
           "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Todo"
+          "Common.TypeNameIdentifier": "Counter"
         }
       },
       {
-        "HashCode": -1453518347,
+        "HashCode": 119366901,
         "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Todo",
+        "Name": "FirstBlazorApp.Pages.Counter",
         "AssemblyName": "FirstBlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FirstBlazorApp.Pages.Todo"
+            "TagName": "FirstBlazorApp.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartingValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "StartingValue",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeName": "FirstBlazorApp.Pages.Counter",
           "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Todo",
+          "Common.TypeNameIdentifier": "Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
