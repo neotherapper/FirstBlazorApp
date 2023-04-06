@@ -50,43 +50,6 @@
         }
       },
       {
-        "HashCode": 1626069847,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Index",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Index",
-          "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": -812309212,
-        "Kind": "Components.Component",
-        "Name": "FirstBlazorApp.Pages.Index",
-        "AssemblyName": "FirstBlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FirstBlazorApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "FirstBlazorApp.Pages.Index",
-          "Common.TypeNamespace": "FirstBlazorApp.Pages",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -393365531,
         "Kind": "Components.Component",
         "Name": "FirstBlazorApp.Pages.Counter",
@@ -160,6 +123,80 @@
           "Common.TypeName": "FirstBlazorApp.Pages.Counter",
           "Common.TypeNamespace": "FirstBlazorApp.Pages",
           "Common.TypeNameIdentifier": "Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -787305116,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Todo"
+        }
+      },
+      {
+        "HashCode": -1453518347,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1626069847,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Index",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Index",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": -812309212,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Index",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Index",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
