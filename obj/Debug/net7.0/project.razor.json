@@ -146,6 +146,43 @@
         }
       },
       {
+        "HashCode": -787305116,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Todo"
+        }
+      },
+      {
+        "HashCode": -1453518347,
+        "Kind": "Components.Component",
+        "Name": "FirstBlazorApp.Pages.Todo",
+        "AssemblyName": "FirstBlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FirstBlazorApp.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "FirstBlazorApp.Pages.Todo",
+          "Common.TypeNamespace": "FirstBlazorApp.Pages",
+          "Common.TypeNameIdentifier": "Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1427368190,
         "Kind": "Components.Component",
         "Name": "FirstBlazorApp.App",
@@ -19059,6 +19096,11 @@
     {
       "FilePath": "/Users/georgepilitsoglou/Developer/proto/FirstBlazorApp/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/georgepilitsoglou/Developer/proto/FirstBlazorApp/Pages/Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
